@@ -418,8 +418,8 @@ input.form-control.date::placeholder {
 }
 .spinner {
   position: absolute;
-  top: 50%; /* centers the loading animation vertically one the screen */
-  left: 50%; /* centers the loading animation horizontally one the screen */
+  top: 45%; /* centers the loading animation vertically one the screen */
+  left: 49%; /* centers the loading animation horizontally one the screen */
   width: 3.75rem;
   height: 3.25rem;
   margin: -0.625rem 0 0 -1.875rem; /* is width and height divided by two */
